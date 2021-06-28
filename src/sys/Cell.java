@@ -55,4 +55,8 @@ public class Cell {
     	 } 
      }
      
+	 //就是一个简单平平无奇的小修改，print一下
+	 public void justToChange(){
+		 System.out.println("this is a change");
+	 }
 }
